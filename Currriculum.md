@@ -22,11 +22,11 @@ Actualmente, soy estudiante apunto de graduarse con muchas metas y planes futuro
 Fotos relevantes a mis proyectos 
 
 
-![](a.mp4)
+[Video 1](a.mp4)
 ![](s.png)
 ![](b.jpeg)
-![](c.mp4)
-![](d.mp4)
+[Video 2](c.mp4)
+[Video 3](d.mp4)
 
 ## Intereses personales:
 
