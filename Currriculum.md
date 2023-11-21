@@ -19,9 +19,11 @@ Apasionada por la incorporación de nuevas tecnologías en el mundo asi como la 
 Actualmente, soy estudiante apunto de graduarse con muchas metas y planes futuros, con experiencia en el mundo laboral en la elaboración de paginas web y colaborando con empresas durante la carrera y en proyectos como programadora para competencias en Nao.
 
 ## Fotos:
-
 Fotos relevantes a mis proyectos 
+
+
 ![](a.mp4)
+![](s.png)
 ![](b.jpeg)
 ![](c.mp4)
 ![](d.mp4)
