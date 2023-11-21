@@ -22,7 +22,7 @@ Actualmente, soy estudiante apunto de graduarse con muchas metas y planes futuro
 Fotos relevantes a mis proyectos 
 
 
-[Video 1](a.mp4)
+(a.mp4)
 ![](s.png)
 ![](b.jpeg)
 [Video 2](c.mp4)
