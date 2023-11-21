@@ -18,7 +18,10 @@
 
 ## Fotos:
 Fotos relevantes a mis proyectos 
-
+![](a.mp4)
+![](b.jpeg)
+![](c.mp4)
+![](d.mp4)
 
 ## Intereses personales:
     Amo viajar me gusta la musica, estuve en toda mi carrera en clases de canto, bachata, arabe, me gusta hacer ejercicio y estuve en varias presentaciones culturales durante la carrera.
