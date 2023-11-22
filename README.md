@@ -1,15 +1,16 @@
 # Mecatronica-2023-2024
 Carpeta de avances personales
 
-## Bitacora
+¡Hola! Mi nombre Stefania Serrano López alumna del Tecnologico de Monterrey campus Ciudad de México y actualmente estoy de intercambio en la Uniiversidad Rey Juan Carlos, mi carrera es Mecatronica sin embargo ahora me encuentro en el programa de Ingeniería en Robótica Software. En este repositorio, encontrarás todas las cosas que necesites para crear un proyecto de mecatronica desde el diseño hasta su implementacion fisica completa. En esta bitácora se relatan con documentos y practicas todos los temas en clase, así como la resolución del reto final. El objetivo de la bitacora, los documentos, practicas y wiki es fortalecer la comprensión del uso de git hub, visual code, herramientas para hacer dibujos en 2D y 3D como impresion en 3D y aplicar los conocimientos en el proyecto final de la asignatura de Mecatrónica.
 
-La presente carpeta es la que agrupará todos los temas de las practicas asi como avances y aprendizajes de cada una 
-como archivos de los **retos y objetivos** de cada asignacion.
+Aquí están los enlaces a los distintos repositorios creados para cada parte del curso:
 
-En esta segunda sesión de laboratorio, comienza la elavoración de mi bitácora que empieza como un resumen donde afirmo el asimilar las herramientas fundamentales: Git y Visual Studio Code, donde primero se configuro el repositorio "Mecatronica-2023-2024" junto con su wiki y despues formamos equipos de los cuales se asigno un responsable para nuestro grupo que es Galia Balandrano. Posterirmente se creo el repositorio "Mecatronica-Proyectos" y su wiki cuyo objetivo es tener registro de lo que se trabaja, nuestras ideas y avances.
+[Visita mi **Bitacora de trabajo** ](https://github.com/Stef-282/Mecatronica-2023-2024/wiki/Bitacora)
 
-Los primeros retos se centraron en la instalación y manejo básico de Git y Visual Studio Code, donde se creo el repositorio de prácticas "Mecatronica-TEST". Durante la elaboracion de dichos ejercicios prácticos logre añadir, eliminar y mover archivos, así como a realizar commits y sincronizaciones.
+**Proyecto Final**
 
-Los retos presentados ofrecieron desafíos como la utilizacion de Git Hub con visual Studio empezando en clonar un archivo, crear archivos de texto y los commit hasta la lograr incluir imágenes en el repositorio, adicional busque como meter videos teniendo más oportunidad de aprendizaje. Por otro lado la manipulación de archivos que me ayuda hasta el momento para escribir el README, la eliminación de elementos y la organización en carpetas, todo esto facilito la comprensión y desafiaron los estandares que esperaba.
+El proyecto final fue realizado en dos semanas en el equipo 9 que esta integrado por los siguientes miembros:
 
-Por ultimo durante esta sesión logre una comprensión mejor de Git, Visual  S y la dinámica de los repositorios. Sin embargo, tambien identifique oportunidades para mejorar tales como problemas con los commits y organización de archivos ademas de que debo leer mejor y aprender a seguir instrucciones para tener las cosas bien y menores desafios.
+- [**Galia Balandrano Aguilar** ](https://github.com/galia-urjc)
+- [**Emilio Hernandez Rogriguez** ](https://github.com/Emilio111101)
+- [**Stefania Serrano López** ](https://github.com/Stef-282)
