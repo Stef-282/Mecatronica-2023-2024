@@ -5,7 +5,7 @@ Carpeta de avances personales
 
 Aquí están los enlaces a los distintos repositorios creados para cada parte del curso:
 
-[Visita mi **Bitacora de trabajo** ](https://github.com/Stef-282/Mecatronica-2023-2024/wiki/Bitacora)
+[Visita mi Bitacora de trabajo](https://github.com/Stef-282/Mecatronica-2023-2024/wiki/Bitacora)
 
 **Proyecto Final**
 
