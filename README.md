@@ -14,3 +14,6 @@ El proyecto final fue realizado en dos semanas en el equipo 9 que esta integrado
 - [**Galia Balandrano Aguilar** ](https://github.com/galia-urjc)
 - [**Emilio Hernandez Rogriguez** ](https://github.com/Emilio111101)
 - [**Stefania Serrano López** ](https://github.com/Stef-282)
+
+
+[Visita el proyecto final](https://github.com/galia-urjc/Mecatronica-Proyecto)
