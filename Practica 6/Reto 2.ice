@@ -65,7 +65,7 @@
           "id": "eb9931f2-d16e-466f-8ab7-4ad846ea6d5c",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 2: Encender dos LEDs\n\nCrea un circuito para encender dos LEDs.",
+            "info": "# Ejercicio 2: Dos LEDs\n\nCrea un circuito para encender dos LEDs.",
             "readonly": true
           },
           "position": {
