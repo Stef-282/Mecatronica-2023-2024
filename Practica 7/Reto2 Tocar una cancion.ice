@@ -1,6 +1,6 @@
 module TocarEscala(
-    input wire clk,  // Reloj del sistema
-    output reg [11:0] salida  // Salida de audio de 12 bits
+    input wire clk,
+    output reg [11:0] salida  
 );
 
 reg [3:0] contador_tiempo;
@@ -16,14 +16,14 @@ GeneradorNotas nota_generada(
 always @(posedge clk) begin
     if (contador_tiempo < 4'd4) begin
         case (contador_tiempo)
-            4'd0: salida <= salida_generador;  // Nota do
-            4'd1: salida <= salida_generador;  // Nota re
-            4'd2: salida <= salida_generador;  // Nota mi
-            4'd3: salida <= salida_generador;  // Nota fa
-            default: salida <= 12'd0;  // Silencio
+            4'd0: salida <= salida_generador;  
+            4'd1: salida <= salida_generador;  
+            4'd2: salida <= salida_generador;  
+            4'd3: salida <= salida_generador;  
+            default: salida <= 12'd0;  
         endcase
     end else begin
-        salida <= 12'd0;  // Silencio después de cada nota
+        salida <= 12'd0; 
     end
 
     if (contador_tiempo < 4'd4) begin
