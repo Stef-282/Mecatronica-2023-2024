@@ -187,7 +187,7 @@
           "id": "44573787-60a7-49db-b2f1-c8f6c529f286",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 7.1: LEDs pares e impares",
+            "info": " Ejercicio 7.1: LEDs pares e impares",
             "readonly": true
           },
           "position": {
