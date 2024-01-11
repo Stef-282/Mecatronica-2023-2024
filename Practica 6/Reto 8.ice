@@ -66,7 +66,7 @@
           "id": "3d612fe0-8a4b-4639-9def-8d6b699c3569",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 8: Dos LEDs y dos pulsadores,
+            "info": "Ejercicio 8: Dos LEDs con dos pulsadores,
             "readonly": true
           },
           "position": {
