@@ -94,7 +94,7 @@
           "id": "7396d944-cb26-42f8-8fb4-6857c50ef796",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 4: Pulsador controlando un LED\n\n* Pin de entrada.\n* Pulsadores de entrada: SW1 y SW2, "readonly": true
+            "info": " Ejercicio 4: Pulsador con LED\n\n* Pin de entrada.\n* Pulsadores de entrada: SW1 y SW2, "readonly": true
           },
           "position": {
             "x": 376,
