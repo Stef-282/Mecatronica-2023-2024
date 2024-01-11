@@ -103,7 +103,7 @@
           "id": "2bb5c917-4749-44f3-9f71-b4b6cd2d9a35",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 2.1.1: Encender cuatro LEDS\n\nCrea un circuito para encender cuatro LEDs.",
+            "info": "# Ejercicio 2.1.1: Cuatro LEDS\n\nCrea un circuito para encender cuatro LEDs.",
             "readonly": true
           },
           "position": {
