@@ -173,7 +173,7 @@
           "id": "7396d944-cb26-42f8-8fb4-6857c50ef796",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 5: Dos pulsadores controlando un LED cada uno",
+            "info": " Ejercicio 5: Dos pulsadores con sus LEDs ",
             "readonly": true
           },
           "position": {
