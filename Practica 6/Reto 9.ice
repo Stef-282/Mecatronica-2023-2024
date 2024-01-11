@@ -143,7 +143,7 @@
           "id": "11034811-cfda-4df2-b763-8312143c4961",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 9: Etiquetas \n* Conectar a un bloque usando etiquetas y en el otro cables.",
+            "info": " Ejercicio 9: Conectar a un bloque usando etiquetas.",
             "readonly": true
           },
           "position": {
