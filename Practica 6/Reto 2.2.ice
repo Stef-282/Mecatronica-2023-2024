@@ -49,8 +49,6 @@
             "y": 112
           }
         },
-        // Aquí van los demás bloques con nombres y posiciones actualizados
-        // Resto de bloques con sus posiciones actualizadas
       ],
       "wires": [
         {
@@ -83,8 +81,7 @@
       },
       "design": {
         "graph": {
-          "blocks": [
-            // Bloques de código
+          "blocks": {
             {
               "id": "3d584b0a-29eb-47af-8c43-c0822282ef05",
               "type": "basic.output",
@@ -122,7 +119,6 @@
             }
           ],
           "wires": [
-            // Conexiones entre bloques de código
             {
               "source": {
                 "block": "61331ec5-2c56-4cdd-b607-e63b1502fa65",
