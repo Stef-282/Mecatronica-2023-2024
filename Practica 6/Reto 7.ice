@@ -73,7 +73,7 @@
           "id": "44573787-60a7-49db-b2f1-c8f6c529f286",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 7: Dos LEDs en oposición de fase \nLEDs. Los LEDs se encienden, uno se apaga, y el otro no y vice-versa.",
+            "info": " Ejercicio 7: Dos LEDs en oposición de false \nLEDs.",
             "readonly": true
           },
           "position": {
