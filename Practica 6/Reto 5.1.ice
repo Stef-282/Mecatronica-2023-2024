@@ -407,7 +407,7 @@
           "id": "7396d944-cb26-42f8-8fb4-6857c50ef796",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 5.1: LEDS pares e impares \n pares Boton1, \ny LEDs impares Boton2.",
+            "info": "Ejercicio 5.1: LEDS pares e impares \n pares Boton1, \ny LEDs impares Boton2.",
             "readonly": true
           },
           "position": {
