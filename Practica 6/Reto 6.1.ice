@@ -133,7 +133,7 @@
           "id": "16d3a580-d856-4c79-8beb-9f7e59a9dc95",
           "type": "basic.info",
           "data": {
-            "info": "# Ejercicio 6.1: Pulsador alreves sin NOT",
+            "info": "Ejercicio 6.1: Pulsador alreves ",
             "readonly": true
           },
           "position": {
